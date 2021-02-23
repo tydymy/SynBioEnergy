@@ -1,4 +1,4 @@
-## Wastewater treatment, Desalination and Biofuel
+## Wastewater Treatment, Desalination and Biofuel
 
 You can use the [editor on GitHub](https://github.com/tydymy/SynBioEnergy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
